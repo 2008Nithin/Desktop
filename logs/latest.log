@@ -1,0 +1,42 @@
+[14:44:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:44:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:44:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:44:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:44:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:44:23] [main/INFO]: Reloading ResourceManager: Default
+[14:44:24] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:44:24] [Worker-Main-14/INFO]: Loaded 927 advancements
+[14:44:25] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:44:25] [Server thread/INFO]: Loading properties
+[14:44:25] [Server thread/INFO]: Default game type: SURVIVAL
+[14:44:25] [Server thread/INFO]: Generating keypair
+[14:44:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:44:25] [Server thread/INFO]: Using default channel type
+[14:44:25] [Server thread/INFO]: Preparing level "world"
+[14:44:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:26] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:26] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:26] [Server thread/INFO]: Preparing spawn area: 0%
+[14:44:27] [Server thread/INFO]: Time elapsed: 1861 ms
+[14:44:27] [Server thread/INFO]: Done (1.919s)! For help, type "help"
+[14:45:34] [User Authenticator #1/INFO]: UUID of player your_teamate7123 is 7922f34f-9a3f-4c50-a64c-16d5adddc896
+[14:45:34] [Server thread/INFO]: your_teamate7123[/127.0.0.1:63459] logged in with entity id 196 at (108.82334746034563, 19.0, -242.6883207534941)
+[14:45:34] [Server thread/INFO]: your_teamate7123 joined the game
+[14:46:03] [Server thread/INFO]: [your_teamate7123: Set own game mode to Spectator Mode]
+[14:46:21] [Server thread/INFO]: [your_teamate7123: Set own game mode to Survival Mode]
+[15:01:23] [Server thread/INFO]: [your_teamate7123: Set own game mode to Spectator Mode]
+[15:01:34] [Server thread/INFO]: [your_teamate7123: Set own game mode to Survival Mode]
+[15:04:12] [Server thread/INFO]: [your_teamate7123: Set own game mode to Spectator Mode]
+[15:04:50] [Server thread/INFO]: [your_teamate7123: Set own game mode to Survival Mode]
+[15:08:28] [Server thread/INFO]: [your_teamate7123: Set own game mode to Spectator Mode]
+[15:08:44] [Server thread/INFO]: [your_teamate7123: Set own game mode to Survival Mode]
+[15:08:47] [Server thread/INFO]: [your_teamate7123: Set own game mode to Spectator Mode]
+[15:09:04] [Server thread/INFO]: [your_teamate7123: Set own game mode to Survival Mode]
+[15:12:46] [Server thread/INFO]: your_teamate7123 lost connection: Disconnected
+[15:12:46] [Server thread/INFO]: your_teamate7123 left the game
+[15:35:33] [User Authenticator #2/INFO]: UUID of player your_teamate7123 is 7922f34f-9a3f-4c50-a64c-16d5adddc896
+[15:35:33] [Server thread/INFO]: your_teamate7123[/127.0.0.1:64520] logged in with entity id 3873 at (169.75910575932326, 45.9375, -224.1332428840502)
+[15:35:33] [Server thread/INFO]: your_teamate7123 joined the game
+[15:36:36] [Server thread/INFO]: your_teamate7123 has made the advancement [Suit Up]
+[15:41:27] [Server thread/INFO]: your_teamate7123 lost connection: Disconnected
+[15:41:27] [Server thread/INFO]: your_teamate7123 left the game

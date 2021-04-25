@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2021-04-19 18:30:27 -0400",
+      "minecraft:forest": "2021-04-19 18:31:00 -0400",
+      "minecraft:taiga": "2021-04-19 18:29:15 -0400",
+      "minecraft:snowy_tundra": "2021-04-19 18:30:30 -0400",
+      "minecraft:river": "2021-04-19 18:30:25 -0400",
+      "minecraft:wooded_hills": "2021-04-19 18:31:16 -0400",
+      "minecraft:plains": "2021-04-19 18:28:46 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
